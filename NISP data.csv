@@ -1,0 +1,52 @@
+Country,Site/Formation,Locality,Member,Latitude,Longitude,Mean.Age_Ma,Age.ref,Paran.nisp,Non.paran.mamm.nisp,Paran.ref,Mamm.ref,Notes
+Ethiopia,Gona,,Boolihanan,11.15,40.32,1.6,Everett 2010,0,211,NA,Everett 2010,
+Ethiopia,Gona,,Dark Paleosol,11.15,40.32,1.15,Everett 2010,0,222,NA,Everett 2010,
+Ethiopia,Bouri,,Hatayae,10.15,40.33,2.5,de Heinzelin et al. 1999,0,582,NA,Tim White (pers. comm.),
+Ethiopia,Bouri,,Dakanihylo,10.28,40.53,1,WoldeGabriel et al. 2009,0,690,NA,Gilbert & Asfaw 2008,"For data from appendices, only counted specimen numbers once because every tooth is measured"
+Ethiopia,Mille-Logya,,Gafura,11.58,40.81,2.9,Mille-Logiya Project,0,249,NA,Mille-Logya Project,
+Ethiopia,Mille-Logya,,Seraitu,11.58,40.81,2.7,Mille-Logiya Project,0,1204,NA,Mille-Logya Project,
+Ethiopia,Mille-Logya,,Uraitele,11.58,40.81,2.45,Mille-Logiya Project,0,234,NA,Mille-Logya Project,
+Ethiopia,Hadar,,KH2,11.1,40.58,3,Campisano and Feibel 2007,0,663,NA,Hadar Research Project Database,
+Ethiopia,Hadar,,Makaamitalu,11.1,40.58,2.35,Kimbel et al. 1996,0,173,NA,Hadar Research Project Database,
+Ethiopia,Hadar,,Danauli,11.1,40.58,2,Rowan et al. in prep.,0,144,NA,Hadar Research Project Database,
+Ethiopia,Ledi-Geraru,,Gurumaha,11.4,40.9,2.8,DiMaggio et al. 2015,0,630,NA,Ledi-Geraru Research Project Database,
+Ethiopia,Ledi-Geraru,,Lee Adoyta,11.4,40.9,2.6,DiMaggio et al. 2015,0,340,NA,Ledi-Geraru Research Project Database,
+Ethiopia,Omo Shungura,,C,5,36,2.8,McDougall et al. 2012,6,6453,Wood & Leakey 2011,Omo French & American Databases,
+Ethiopia,Omo Shungura,,D,5,36,2.5,McDougall et al. 2012,4,1432,Wood & Leakey 2011,Omo French & American Databases,
+Ethiopia,Omo Shungura,,E,5,36,2.36,McDougall et al. 2012,16,3600,Wood & Leakey 2011,Omo French & American Databases,
+Ethiopia,Omo Shungura,,F,5,36,2.3,McDougall et al. 2012,21,6277,Wood & Leakey 2011,Omo French & American Databases,
+Ethiopia,Omo Shungura,,G,5,36,2,McDougall et al. 2012,34,17099,Wood & Leakey 2011,Omo French & American Databases,Paranthropus NISP inflated due to OMO 323-76-896 specimens
+Ethiopia,Omo Shungura,,H,5,36,1.8,McDougall et al. 2012,0,1138,NA,Omo French & American Databases,
+Ethiopia,Omo Shungura,,J,5,36,1.65,McDougall et al. 2012,0,358,NA,Omo French & American Databases,
+Ethiopia,Omo Shungura,,K,5,36,1.5,McDougall et al. 2012,1,678,Wood & Leakey 2011,Omo French & American Databases,
+Ethiopia,Omo Shungura,,L,5,36,1.2,McDougall et al. 2012,0,759,NA,Omo French & American Databases,
+Ethiopia,Konso,,Interval 1,5.3,37.4,1.85,Suwa et al. 2003,0,1881,NA,Suwa et al. in press,
+Ethiopia,Konso,,Interval 2,5.3,37.4,1.75,Suwa et al. 2003,0,57,NA,Suwa et al. in press,
+Ethiopia,Konso,,Interval 3,5.3,37.4,1.55,Suwa et al. 2003,0,488,NA,Suwa et al. in press,
+Ethiopia,Konso,,Interval 4,5.3,37.4,1.45,Suwa et al. 2003,10,3286,Suwa et al. 2003,Suwa et al. in press,
+Ethiopia,Konso,,Interval 5,5.3,37.4,1.35,Suwa et al. 2003,0,1988,NA,Suwa et al. in press,
+Ethiopia,Konso,,Interval 6,5.3,37.4,1,Suwa et al. 2003,0,125,NA,Suwa et al. in press,
+Ethiopia,Melka Kunture,,Garba IV C-D,9.56,39.11,0.9,Werdelin 2010,0,822,NA,Denis Geraads (pers. comm.),
+Ethiopia,Melka Kunture,,Garba IV E-F,9.56,39.11,0.9,Werdelin 2010,0,153,NA,Denis Geraads (pers. comm.),
+Kenya,Koobi Fora,,upper Burgi,4,36.37,1.95,McDougall et al. 2012,7,4154,Wood & Leakey 2011; Turkana Basin Institute Database,Turkana Basin Institute Database,
+Kenya,Koobi Fora,,KBS,4,36.37,1.7,McDougall et al. 2012,120,3464,Wood & Leakey 2011; Turkana Basin Institute Database,Turkana Basin Institute Database,Paranthropus NISP inflated due to KNM-ER 3229 and KNM-ER 3952
+Kenya,Koobi Fora,,Okote,4,36.37,1.45,McDougall et al. 2012,33,1808,Wood & Leakey 2011; Green et al. 2018; Lague et al. 2019,Turkana Basin Institute Database,Paranthropus NISP inflated due to KNM-ER 733
+Kenya,Koobi Fora,,Chari,4,36.37,1.07,McDougall et al. 2012,0,44,NA,Turkana Basin Institute Database,
+Kenya,Nachukui,,Lomekwi,3.93,35.77,3,McDougall et al. 2012,0,1245,NA,Turkana Basin Institute Database,
+Kenya,Nachukui,,Lokalalei,3.93,35.77,2.4,McDougall et al. 2012,5,75,"Wood & Leakey 2011; Turkana Basin Institute Database; Feibel, pers. comm.",Turkana Basin Institute Database,"KNM-WT 17000, 38351, & 38354 is in Lokalalei Mbr. (Feibel, pers. Comm.)"
+Kenya,Nachukui,,Kalochoro,3.93,35.77,2.1,McDougall et al. 2012,3,227,"Wood & Leakey 2011; Turkana Basin Institute Database; Feibel, pers. comm.",Turkana Basin Institute Database,"KNM-WT 38353 is in Kalochoro Mbr. (Feibel, pers. Comm.)"
+Kenya,Nachukui,,Kaitio,3.93,35.77,1.7,McDougall et al. 2012,5,202,Wood & Leakey 2011,Turkana Basin Institute Database,
+Kenya,Nachukui,,Natoo,3.93,35.77,1.43,McDougall et al. 2012,0,274,NA,Turkana Basin Institute Database,
+Kenya,Nachukui,,Nariokotome,3.93,35.77,1.03,McDougall et al. 2012,0,88,NA,Turkana Basin Institute Database,
+Kenya,Chemeron,"BPRP 2,23,99,101,105,106,107,117,118,119,120,136,137,150,152,198,199,200,201,202,216,219",NA,-0.57,35.95,2.65,Goble 2012,0,363,NA,Goble 2012,
+Tanzania,Peninj,,Basal Sands with Clays,-2.83,35.67,1.6,Dominguez-Rodrigo et al. 2002,1,42,Leakey & Leakey 1964,Denis Geraads (pers. comm.),
+Tanzania,Peninj,,Main Tuff,-2.83,35.67,1.5,Dominguez-Rodrigo et al. 2002,0,22,NA,Denis Geraads (pers. comm.),
+Tanzania,Peninj,,Upper Sands with Clays,-2.83,35.67,1.5,Dominguez-Rodrigo et al. 2002,0,114,NA,Denis Geraads (pers. comm.),
+Tanzania,Peninj,,Middle Zone,-2.83,35.67,1.4,Geraads 1987; McHenry & Stanistreet 2018,0,57,NA,Denis Geraads (pers. comm.),Same age as upper Bed II at Olduvai
+Tanzania,Olduvai Gorge,,Bed I,-2.98,35.3,1.92,Deino 2012,2,1681,CODI database,CODI database,"counted NISP separated by commas in ""Elements Preserved"" column"
+Tanzania,Olduvai Gorge,,Bed II,-2.98,35.3,1.5,Deino 2012; Stanistreet 2012,17,1569,CODI database; Dominguez-Rodrigo et al. 2013,CODI database,"counted NISP separated by commas in ""Elements Preserved"" column; the Paranthropus NISP is inflated due to the OH 80 partial skeleton"
+Tanzania,Olduvai Gorge,,Bed III,-2.98,35.3,1.05,Stanistreet 2012,0,179,NA,CODI database,"counted NISP separated by commas in ""Elements Preserved"" column"
+Tanzania,Laetoli,,Upper Ndolanya,-3.2,35.2,2.66,Harrison 2011,1,1880,Harrison 2011,Reed et al. 2019,
+Tanzania,Laetoli,,Naibadad,-3.2,35.2,2.18,Reed et al. 2019,0,46,NA,Reed et al. 2019,
+Tanzania,Laetoli,,Lower Ngaloba,-3.2,35.2,1.45,Reed et al. 2019,0,39,NA,Reed et al. 2019,
+Malawi,Malema,"Karonga,Uraha,RC11",3A,-10.02,33.93,2.4,Kullmer et al. 1999,1,341,Kullmer et al. 1999,Bromage et al. 1995; Kullmer et al. 1999,Cross-ref species list from Table 2 with NISP data from Table 1 in Bromage et al.
